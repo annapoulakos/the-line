@@ -1,5 +1,5 @@
-import Utilities from '../utilities';
-import StateMachine from '../state-machine';
+import Utilities from '../../utilities';
+import StateMachine from '../../state-machine';
 
 class Actor {
         constructor () {

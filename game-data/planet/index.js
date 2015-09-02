@@ -1,6 +1,6 @@
 import _ from 'lodash';
 
-import Utilities from '../../Utilities';
+import Utilities from '../../utilities';
 
 import Mine from '../mine';
 import Lab from '../lab';
